@@ -1,0 +1,7 @@
+Flask==1.1.2
+numpy==1.24.3
+opencv_python_headless==4.5.1.48
+PyQt5==5.15.9
+Requests==2.30.0
+~equests==2.25.1
+~~mpy==1.20.1
